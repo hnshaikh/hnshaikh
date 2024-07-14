@@ -1,0 +1,2790 @@
+
+
+
+
+.header {
+    background: url("../img/baground.jpg") center center / 1800px no-repeat;
+    min-height: 50px;
+    height: auto;
+    float: left;
+}
+
+.navy {
+    float: right;
+    font-family: Poppins, serif;
+    font-weight: bold;
+    margin-left: 800px;
+    font-size: 15px;
+}
+
+.mybtn {
+    width: 150px;
+    border-radius: 23px !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+}
+
+.box1 {
+    height: 500px;
+    float: left;
+}
+
+.box2 {
+    height: 512px;
+    float: right;
+}
+
+.box2 img {
+    width: 600px;
+    height: 600px;
+    float: right;
+    margin-top: -60px;
+    margin-right: -96px;
+}
+
+.box1 h2 {
+    font-family: Poppins, serif;
+    font-size: 23px;
+    margin: 16px 9px;
+}
+
+.box1 h3 {
+    font-family: Poppins, serif;
+    color: rgb(255, 193, 7);
+    font-size: 40px;
+    margin: 21px 0px;
+}
+
+.box1 h5 {
+    font-family: Poppins, serif;
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+}
+
+.box1 span {
+    color: rgb(255, 193, 7);
+}
+
+.box1 p {
+    float: left;
+    font-size: 16px;
+    margin: 18px 10px;
+    text-align: justify;
+    font-family: Poppins, serif;
+    color: black;
+}
+
+.ab {
+    margin: 12px 11px;
+    border-radius: 20px !important;
+    font-family: Poppins, serif !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.box1 i {
+    padding: 6px 0px;
+    margin: 5px 6px;
+    font-size: 1.7rem;
+    color: rgb(0, 0, 0);
+}
+
+.Abot {
+    float: left;
+    height: 590px;
+    background: black;
+    opacity: 0.86;
+}
+
+.abbox1 {
+    float: left;
+    height: 600px;
+}
+
+.abbox2 {
+    float: left;
+    height: 600px;
+}
+
+.brbox {
+    width: 481px;
+    height: 570px;
+    float: left;
+    border: 12px solid rgb(255, 193, 8);
+    padding: 10px 11px;
+    margin: 16px 1px;
+}
+
+.brbox img {
+    width: 432px;
+    height: 536px;
+    margin-left: 26px;
+    margin-top: -29px;
+    float: left;
+}
+
+.abbox2 h3 {
+    font-family: Poppins, serif;
+    font-size: 44px;
+    margin: 28px 4px;
+    color: white;
+}
+
+.bord {
+    border-bottom: 9px solid rgb(255, 201, 42);
+    width: 248px;
+    margin-top: -10px;
+}
+
+.abbox2 p {
+    font-family: Poppins, serif;
+    font-size: 17px;
+    margin: 20px 14px;
+    padding: 11px 0px;
+    color: white;
+    float: left;
+    text-align: justify;
+}
+
+.abbtn {
+    padding: 3px;
+    margin: 3px 10px;
+    border-radius: 12px !important;
+    color: white !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+}
+
+.srvicbox {
+    float: left;
+    height: auto;
+    min-height: 550px;
+    background: url("../img/baground.jpg") center center / 2500px no-repeat;
+}
+
+.srvc h4 {
+    font-family: Poppins, serif;
+    color: rgb(255, 201, 42);
+    text-align: center;
+    margin-top: 27px;
+    font-size: 1.9rem;
+}
+
+.srvc p {
+    font-family: Poppins, serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 1px;
+    font-weight: bold;
+    font-size: 2.1rem;
+}
+
+.svcbox {
+    height: 364px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 3px 44px;
+    box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+    border-right: 1px solid gray;
+}
+
+.svcbox:hover {
+    background-color: rgb(255, 239, 193);
+}
+
+.svcbox img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 17px 42px;
+}
+
+.svcbox h5 {
+    text-align: center;
+    font-family: Poppins, serif;
+    font-size: 23px;
+    margin: 10px 2px;
+}
+
+.svcbox p {
+    text-align: center;
+    font-size: 10px;
+    padding: 5px;
+    font-family: Poppins, serif;
+}
+
+.svcbt {
+    width: 136px;
+    height: 50px;
+    float: left !important;
+    margin: 12px 22px !important;
+    background-color: white !important;
+    border: 2px solid rgb(255, 201, 42) !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+}
+
+.svcbt:hover {
+    background-color: rgb(255, 201, 42) !important;
+    color: white !important;
+}
+
+.svcbox1 {
+    height: 364px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 3px 44px;
+    box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+    border-right: 1px solid gray;
+}
+
+.svcbox1:hover {
+    background-color: rgb(255, 239, 193);
+}
+
+.svcbox1 img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 17px 42px;
+}
+
+.svcbox1 h5 {
+    text-align: center;
+    font-family: Poppins, serif;
+    font-size: 23px;
+    margin: 37px 2px;
+}
+
+.svcbox1 p {
+    text-align: center;
+    font-size: 10px;
+    padding: 5px;
+    font-family: Poppins, serif;
+}
+
+.svcbt1 {
+    width: 136px;
+    height: 50px;
+    float: left !important;
+    margin: 12px 22px !important;
+    background-color: white !important;
+    border: 2px solid rgb(255, 201, 42) !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+}
+
+.svcbt1:hover {
+    background-color: rgb(255, 201, 42) !important;
+    color: white !important;
+}
+
+.skil {
+    float: left;
+    height: auto;
+    min-height: 250px;
+    /* background: url("../img/baground.jpg") center center / 4000px no-repeat; */
+}
+
+.skilbox {
+    float: left;
+    height: 200px;
+    border: 2px solid red;
+    margin: 0px 10px;
+}
+
+.skl h2 {
+    font-family: Poppins, serif;
+    color: rgb(255, 201, 42);
+    text-align: center;
+    margin-top: 27px;
+    font-size: 29px;
+}
+
+.circular-progress {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: conic-gradient(rgb(255, 201, 42) 3.6deg, rgb(237, 237, 237) 0deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circular-progress::before {
+    content: "";
+    position: absolute;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: rgb(241, 237, 237);
+}
+
+.progress-value {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 201, 42);
+}
+
+.text {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Poppins, serif;
+    color: rgb(255, 156, 42);
+}
+
+.skl h2 {
+    font-family: Poppins, serif;
+    color: rgb(255, 201, 42);
+    text-align: center;
+    margin-top: 27px;
+    font-size: 29px;
+}
+
+.sklbox {
+    height: 100px;
+    float: left;
+}
+
+.sklbox h3 {
+    text-align: center;
+    font-family: Poppins, serif;
+    font-size: 17px;
+    margin: 0px;
+    color: rgb(0, 0, 0);
+}
+
+.sklbox p {
+    text-align: center;
+    font-family: Poppins, serif;
+    font-size: 17px;
+    margin: 0px;
+}
+
+.br {
+    width: 250px;
+}
+
+.portbg {
+    float: left;
+    height: auto;
+    min-height: 350px;
+    background: url("../img/baground.jpg") center center / 2000px no-repeat;
+}
+
+.port h6 {
+    font-family: Poppins, serif;
+    color: rgb(255, 201, 42);
+    text-align: center;
+    margin-top: 27px;
+    font-size: 22px;
+}
+
+.port h2 {
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+    font-family: Poppins, serif;
+}
+
+.port p {
+    text-align: center;
+    font-size: 15px;
+    padding: 5px;
+    font-family: Poppins, serif;
+}
+
+.potbox {
+    height: 200px;
+    float: left;
+}
+
+.image {
+    width: 350px;
+    position: relative;
+    margin-left: 10px;
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(255, 196, 0, 0.58);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0;
+    transition: all 0.6s ease 0s;
+}
+
+.content:hover {
+    opacity: 1;
+}
+
+.content h1 {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin-top: 64px;
+    text-align: center;
+    font-family: Poppins, serif;
+}
+
+.content > * {
+    transform: translateY(23px);
+    transition: transform 0.6s ease 0s;
+}
+
+.content:hover > * {
+    transform: translateY(0px);
+}
+
+.des {
+    float: left;
+    height: auto;
+    min-height: 500px;
+    background: url("../img/baground.jpg") center center / 3000px no-repeat;
+}
+
+.pro h6 {
+    font-family: Poppins, serif;
+    color: rgb(255, 201, 42);
+    text-align: center;
+    margin-top: 27px;
+    font-size: 1.9rem;
+}
+
+.pro h1 {
+    font-family: Poppins, serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 1px;
+    font-weight: bold;
+    font-size: 2.1rem;
+}
+
+.probox {
+    height: 369px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 3px 44px;
+    box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+    border-right: 1px solid gray;
+}
+
+.probox img {
+    width: 96px;
+    height: 84px;
+    float: left;
+    margin: 26px 35px;
+}
+
+.probox h3 {
+    text-align: center;
+    font-family: Poppins, serif;
+    font-size: 23px;
+    margin: 10px 2px;
+}
+
+.probox p {
+    text-align: center;
+    font-size: 13px;
+    padding: 5px;
+    font-family: Poppins, serif;
+}
+
+.probt {
+    width: 136px;
+    height: 50px;
+    float: left !important;
+    margin: 2px 22px !important;
+    background-color: white !important;
+    border: 2px solid rgb(255, 201, 42) !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+}
+
+.probt:hover {
+    background-color: rgb(255, 201, 42) !important;
+    color: white !important;
+}
+
+.probox2 {
+    height: 369px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 3px 44px;
+    box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+    border-right: 1px solid gray;
+}
+
+.probox2 img {
+    width: 96px;
+    height: 84px;
+    float: left;
+    margin: 26px 35px;
+}
+
+.probox2 h3 {
+    text-align: center;
+    font-family: Poppins, serif;
+    font-size: 23px;
+    margin: 10px 2px;
+}
+
+.probox2 p {
+    text-align: center;
+    font-size: 13px;
+    padding: 5px;
+    font-family: Poppins, serif;
+}
+
+.probt2 {
+    width: 136px;
+    height: 50px;
+    float: left !important;
+    margin: 0px 19px !important;
+    background-color: white !important;
+    border: 2px solid rgb(255, 201, 42) !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+}
+
+.probt2:hover {
+    background-color: rgb(255, 201, 42) !important;
+    color: white !important;
+}
+
+.probt3 {
+    width: 136px;
+    height: 50px;
+    float: left !important;
+    margin: -17px 19px !important;
+    background-color: white !important;
+    border: 2px solid rgb(255, 201, 42) !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+}
+
+.probt3:hover {
+    background-color: rgb(255, 201, 42) !important;
+    color: white !important;
+}
+
+.blog {
+    float: left;
+    height: auto;
+    min-height: 500px;
+    background: url("../img/baground.jpg") center center / 2500px no-repeat;
+    margin-left: 39px !important;
+}
+
+.blot {
+    float: left;
+    margin: 1px -1px;
+}
+
+.bloghe h4 {
+    font-family: Poppins, serif;
+    color: rgb(255, 201, 42);
+    text-align: center;
+    margin-top: 27px;
+    font-size: 1.9rem;
+}
+
+.bloghe h3 {
+    font-family: Poppins, serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 1px;
+    font-weight: bold;
+    font-size: 2.1rem;
+}
+
+.blo {
+    font-family: Poppins, serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-top: 1px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.blop {
+    text-align: left;
+    font-size: 13px;
+    padding: 0px;
+    font-family: Poppins, serif;
+}
+
+.blobt {
+    width: 131px;
+    height: 42px;
+    float: left !important;
+    margin: 0px 18px !important;
+    font-size: 19px !important;
+    background-color: rgb(255, 201, 42) !important;
+    border: none !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+}
+
+.blobt:hover {
+    background-color: rgb(255, 156, 42) !important;
+    color: white !important;
+}
+
+.footer {
+    height: auto;
+    min-height: 310px;
+    float: left;
+    background-color: rgb(255, 201, 42);
+}
+
+.footbox {
+    height: 300px;
+    float: left;
+}
+
+.footbox h6 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Poppins, serif;
+    font-weight: bold;
+    margin: 16px 2px;
+}
+
+.footbox h4 {
+    font-size: 18px;
+    text-align: left;
+    font-family: Poppins, serif;
+    font-weight: lighter;
+    margin: 16px 0px;
+}
+
+.footbox p {
+    font-weight: bold;
+    font-family: Poppins, serif;
+    padding: 0px;
+    font-size: 12px;
+    margin: 23px 0px;
+}
+
+.doc {
+    font-weight: lighter;
+    font-family: Poppins, serif;
+}
+
+.fname {
+    text-decoration: none;
+    background-color: rgb(255, 201, 42);
+    border: none;
+    font-family: Poppins, serif;
+    width: 300px;
+    text-align: left;
+}
+
+.bord {
+    width: 300px;
+    float: left;
+    border-bottom: 1px solid black;
+    margin: 2px 29px;
+}
+
+textarea {
+    width: 600px;
+    height: 211px;
+    background-color: rgb(249, 234, 190);
+    padding: 5px 8px;
+    text-decoration: none;
+    border: none;
+    margin: 15px 27px !important;
+    font-family: Poppins, serif !important;
+}
+
+.bn {
+    margin-left: 22px;
+    margin-bottom: -20px;
+    text-decoration: none;
+    border: none;
+    background: transparent;
+    font-size: 18px !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+    margin-top: -40px !important;
+}
+
+.bn i {
+    font-size: 14px;
+    margin: 0px 8px;
+}
+
+.portbg {
+    float: left;
+    height: auto;
+    min-height: 350px;
+    background: url("../img/baground.jpg") center center / 2000px no-repeat;
+}
+
+.port h6 {
+    font-family: Poppins, serif;
+    color: rgb(255, 201, 42);
+    text-align: center;
+    margin-top: 27px;
+    font-size: 22px;
+}
+
+.port h2 {
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+    font-family: Poppins, serif;
+}
+
+.port p {
+    text-align: center;
+    font-size: 15px;
+    padding: 5px;
+    font-family: Poppins, serif;
+}
+
+.potbox {
+    height: 200px;
+    float: left;
+}
+
+.image {
+    width: 350px;
+    position: relative;
+    margin-left: 10px;
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(255, 196, 0, 0.58);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0;
+    transition: all 0.6s ease 0s;
+}
+
+.content:hover {
+    opacity: 1;
+}
+
+.content h1 {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin-top: 64px;
+    text-align: center;
+    font-family: Poppins, serif;
+}
+
+.content > * {
+    transform: translateY(23px);
+    transition: transform 0.6s ease 0s;
+}
+
+.content:hover > * {
+    transform: translateY(0px);
+}
+
+.footer {
+    height: auto;
+    min-height: 310px;
+    float: left;
+    background-color: rgb(255, 201, 42);
+}
+
+.footbox {
+    height: 300px;
+    float: left;
+}
+
+.footbox h6 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Poppins, serif;
+    font-weight: bold;
+    margin: 16px 2px;
+}
+
+.footbox h4 {
+    font-size: 18px;
+    text-align: left;
+    font-family: Poppins, serif;
+    font-weight: lighter;
+    margin: 16px 0px;
+}
+
+.footbox p {
+    font-weight: bold;
+    font-family: Poppins, serif;
+    padding: 0px;
+    font-size: 12px;
+    margin: 23px 0px;
+}
+
+.doc {
+    font-weight: lighter;
+    font-family: Poppins, serif;
+}
+
+.fname {
+    text-decoration: none;
+    background-color: rgb(255, 201, 42);
+    border: none;
+    font-family: Poppins, serif;
+    width: 300px;
+    text-align: left;
+}
+
+.bord {
+    width: 300px;
+    float: left;
+    border-bottom: 1px solid black;
+    margin: 2px 29px;
+}
+
+textarea {
+    width: 600px;
+    height: 211px;
+    background-color: rgb(249, 234, 190);
+    padding: 5px 8px;
+    text-decoration: none;
+    border: none;
+    margin: 15px 27px !important;
+    font-family: Poppins, serif !important;
+}
+
+.bn {
+    margin-left: 22px;
+    margin-bottom: -20px;
+    text-decoration: none;
+    border: none;
+    background: transparent;
+    font-size: 18px !important;
+    font-family: Poppins, serif !important;
+    font-weight: bold !important;
+    margin-top: -40px !important;
+}
+
+.bn i {
+    font-size: 14px;
+    margin: 0px 8px;
+}
+
+@media (max-width: 768px) {
+  body{
+    min-height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  
+  
+  
+  
+    .header {
+        min-height: 25%;
+        height: 36%;
+        float: left;
+        background: url("../img/baground.jpg") center center / 2384px no-repeat !important;
+        width: 100% !important;
+    }
+
+    .navy {
+        float: right;
+        font-family: Poppins, serif;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 0px;
+        font-size: 15px;
+        align-items: center;
+    }
+
+    .mybtn {
+        width: 151px;
+        border-radius: 23px !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+    }
+
+    .box1 {
+        height: 20%;
+        margin-left: 0px;
+        float: left;
+        width: 106% !important;
+    }
+
+    .box2 {
+        height: 30%;
+        float: right;
+    }
+
+    .box2 img {
+        width: 221%;
+        height: 34%;
+        float: right;
+        margin: auto;
+    }
+
+    .box1 h2 {
+        font-family: Poppins, serif;
+        font-size: 19px;
+        margin: 0px;
+        text-align: left;
+    }
+
+    .box1 h3 {
+        font-family: Poppins, serif;
+        color: rgb(255, 193, 7);
+        font-size: 29px;
+        margin: 0px;
+        text-align: left;
+    }
+
+    .box1 h5 {
+        font-family: Poppins, serif;
+        color: rgb(0, 0, 0);
+        font-size: 47px;
+        text-align: left;
+    }
+
+    .box1 span {
+        color: rgb(255, 193, 7);
+    }
+
+    .box1 p {
+        float: left;
+        font-size: 13px;
+        margin: 2px 0px;
+        font-family: Poppins, serif;
+        color: black;
+        text-align: left;
+    }
+
+    .ab {
+        margin: 0px;
+        width: 18%;
+        border-radius: 36px !important;
+        font-family: Poppins, serif !important;
+        color: white !important;
+        font-weight: bold !important;
+        font-size: 9px !important;
+    }
+
+    .box1 i {
+        padding: 0px;
+        margin: 5px 6px;
+        font-size: 22px;
+        color: rgb(0, 0, 0);
+    }
+
+    .Abot {
+        float: left;
+        height: 574px;
+        background: black;
+    }
+
+    .abbox1 {
+        float: left;
+        height: 35%;
+        width: 90% !important;
+    }
+
+    .abbox2 {
+        float: left;
+        height: 623px;
+        width: 94% !important;
+    }
+
+    .brbox {
+        width: 52%;
+        height: 9%;
+        float: left;
+        border: 4px solid rgb(255, 193, 8);
+        padding: 10px 11px;
+        margin-left: 90px;
+        margin-top: 20px;
+    }
+
+    .brbox img {
+        width: 106%;
+        height: 25%;
+        margin-left: 14px;
+        margin-top: -31px;
+        float: left;
+    }
+
+    .abbox2 h3 {
+        font-family: Poppins, serif;
+        font-size: 31px;
+        margin: 14px 0px;
+        color: white;
+        text-align: center;
+    }
+
+    .bord {
+        border-bottom: 9px solid rgb(255, 201, 42);
+        width: 248px;
+        margin-top: -10px;
+    }
+
+    .abbox2 p {
+        font-family: Poppins, serif;
+        font-size: 10px;
+        margin: -1px 0px;
+        padding: 9px 0px;
+        color: white;
+        float: left;
+        text-align: center;
+    }
+
+    .abbtn {
+        padding: 3px;
+        margin-left: 127px;
+        width: 38%;
+        border-radius: 12px !important;
+        font-size: 12px !important;
+        color: white !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+    }
+
+    .srvicbox {
+        float: left;
+        /* width: 100% !important; */
+        height: auto;
+        min-height: 550px;
+        background: url("../img/baground.jpg") center center / 2452px no-repeat;
+    }
+
+    .srvc h4 {
+        font-family: Poppins, serif;
+        color: rgb(255, 201, 42);
+        text-align: center;
+        margin-top: 27px;
+        font-size: 22px;
+    }
+
+    .srvc p {
+        font-family: Poppins, serif;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        margin-top: 1px;
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+    .svcbox {
+        height: 364px;
+        float: left;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20px;
+        margin: 6px 18px;
+        box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+        border-right: 1px solid gray;
+        width: 41% !important;
+    }
+
+    .svcbox:hover {
+        background-color: rgb(255, 239, 193);
+    }
+
+    .svcbox img {
+        width: 100px;
+        height: 100px;
+        float: left;
+        margin: 17px 42px;
+    }
+
+    .svcbox h5 {
+        text-align: center;
+        font-family: Poppins, serif;
+        font-size: 23px;
+        margin: 10px 2px;
+    }
+
+    .svcbox p {
+        text-align: center;
+        font-size: 10px;
+        padding: 5px;
+        font-family: Poppins, serif;
+    }
+
+    .svcbt {
+        width: 136px;
+        height: 50px;
+        float: left !important;
+        margin: 12px 22px !important;
+        background-color: white !important;
+        border: 2px solid rgb(255, 201, 42) !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+    }
+
+    .svcbt:hover {
+        background-color: rgb(255, 201, 42) !important;
+        color: white !important;
+    }
+
+    .svcbox1 {
+        height: 364px;
+        float: left;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20px;
+        margin: 6px 21px;
+        box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+        border-right: 1px solid gray;
+        width: 41% !important;
+    }
+
+    .svcbox1:hover {
+        background-color: rgb(255, 239, 193);
+    }
+
+    .svcbox1 img {
+        width: 100px;
+        height: 100px;
+        float: left;
+        margin: 17px 42px;
+    }
+
+    .svcbox1 h5 {
+        text-align: center;
+        font-family: Poppins, serif;
+        font-size: 23px;
+        margin: 37px 2px;
+    }
+
+    .svcbox1 p {
+        text-align: center;
+        font-size: 10px;
+        padding: 5px;
+        font-family: Poppins, serif;
+    }
+
+    .svcbt1 {
+        width: 136px;
+        height: 50px;
+        float: left !important;
+        margin: 12px 22px !important;
+        background-color: white !important;
+        border: 2px solid rgb(255, 201, 42) !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+    }
+
+    .svcbt1:hover {
+        background-color: rgb(255, 201, 42) !important;
+        color: white !important;
+    }
+
+    .skil {
+        float: left;
+        height: 92%;
+        /* min-height: 260px; */
+        background: url("../img/baground.jpg") center center / 50000px no-repeat;
+    }
+
+    .skilbox {
+        float: left;
+        height: 200px;
+        border: 2px solid red;
+        margin: 0px 10px;
+    }
+
+    .skl h2 {
+        font-family: Poppins, serif;
+        color: rgb(255, 201, 42);
+        text-align: center;
+        margin-top: 27px;
+        font-size: 29px;
+    }
+
+    .circular-progress {
+        position: relative;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background: conic-gradient(rgb(255, 201, 42) 3.6deg, rgb(237, 237, 237) 0deg);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .circular-progress::before {
+        content: "";
+        position: absolute;
+        height: 90px;
+        width: 90px;
+        border-radius: 50%;
+        background-color: rgb(241, 237, 237);
+    }
+
+    .progress-value {
+        position: absolute;
+        font-size: 20px;
+        font-weight: bold;
+        color: rgb(255, 201, 42);
+    }
+
+    .text {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: Poppins, serif;
+        color: rgb(255, 156, 42);
+    }
+
+    .skl h2 {
+        font-family: Poppins, serif;
+        color: rgb(255, 201, 42);
+        text-align: center;
+        margin-top: 13px;
+        font-size: 29px;
+    }
+
+    .sklbox {
+        height: 100px;
+        float: left;
+        width: 92% !important;
+        margin-left: 25px;
+    }
+
+    .sklbox h3 {
+        text-align: center;
+        font-family: Poppins, serif;
+        font-size: 17px;
+        margin: 0px;
+        color: rgb(0, 0, 0);
+    }
+
+    .sklbox p {
+        text-align: center;
+        font-family: Poppins, serif;
+        font-size: 17px;
+        margin: 0px;
+    }
+
+    .br {
+        width: 98% !important;
+    }
+
+    .portbg {
+        float: left;
+        height: auto;
+        min-height: 350px;
+        background: url("../img/baground.jpg") center center / 2000px no-repeat;
+    }
+
+    .port h6 {
+        font-family: Poppins, serif;
+        color: rgb(255, 201, 42);
+        text-align: center;
+        margin-top: 27px;
+        font-size: 22px;
+    }
+
+    .port h2 {
+        text-align: center;
+        font-size: 30px;
+        padding: 5px;
+        font-family: Poppins, serif;
+    }
+
+    .port p {
+        text-align: center;
+        font-size: 15px;
+        padding: 5px;
+        font-family: Poppins, serif;
+    }
+
+    .potbox {
+        height: 200px;
+        float: left;
+    }
+
+    .image {
+        width: 350px;
+        position: relative;
+        margin-left: 10px;
+    }
+
+    img {
+        width: 100%;
+        display: block;
+        margin: auto;
+    }
+
+    .content {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        background: rgba(255, 196, 0, 0.58);
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        opacity: 0;
+        transition: all 0.6s ease 0s;
+    }
+
+    .content:hover {
+        opacity: 1;
+    }
+
+    .content h1 {
+        font-size: 35px;
+        color: rgb(255, 255, 255);
+        margin-top: 64px;
+        text-align: center;
+        font-family: Poppins, serif;
+    }
+
+    .content > * {
+        transform: translateY(23px);
+        transition: transform 0.6s ease 0s;
+    }
+
+    .content:hover > * {
+        transform: translateY(0px);
+    }
+
+    .des {
+        float: left;
+        height: auto;
+        min-height: 500px;
+        background: url("../img/baground.jpg") center center / 3000px no-repeat;
+    }
+
+    .pro h6 {
+        font-family: Poppins, serif;
+        color: rgb(255, 201, 42);
+        text-align: center;
+        margin-top: 27px;
+        font-size: 21px;
+    }
+
+    .pro h1 {
+        font-family: Poppins, serif;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        margin-top: 1px;
+        font-weight: bold;
+        font-size: 1.1rem;
+    }
+
+    .probox {
+        height: 370px;
+        width: 45% !important;
+        float: left;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20px;
+        margin: 6px 8px;
+        box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+        border-right: 1px solid gray;
+    }
+
+    .probox img {
+        width: 96px;
+        height: 84px;
+        float: left;
+        margin: 26px 35px;
+    }
+
+    .probox h3 {
+        text-align: center;
+        font-family: Poppins, serif;
+        font-size: 23px;
+        margin: 10px 2px;
+    }
+
+    .probox p {
+        text-align: center;
+        font-size: 13px;
+        padding: 5px;
+        font-family: Poppins, serif;
+    }
+
+    .probt {
+        width: 136px;
+        height: 50px;
+        float: left !important;
+        margin: 2px 22px !important;
+        background-color: white !important;
+        border: 2px solid rgb(255, 201, 42) !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+    }
+
+    .probt:hover {
+        background-color: rgb(255, 201, 42) !important;
+        color: white !important;
+    }
+
+    .probox2 {
+        height: 369px;
+        float: left;
+        width: 46% !important;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20px;
+        margin: 11px 9px;
+        box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+        border-right: 1px solid gray;
+    }
+
+    .probox2 img {
+        width: 96px;
+        height: 84px;
+        float: left;
+        margin: 26px 35px;
+    }
+
+    .probox2 h3 {
+        text-align: center;
+        font-family: Poppins, serif;
+        font-size: 23px;
+        margin: 10px 2px;
+    }
+
+    .probox2 p {
+        text-align: center;
+        font-size: 13px;
+        padding: 5px;
+        font-family: Poppins, serif;
+    }
+
+    .probt2 {
+        width: 136px;
+        height: 50px;
+        float: left !important;
+        margin: 0px 19px !important;
+        background-color: white !important;
+        border: 2px solid rgb(255, 201, 42) !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+    }
+
+    .probt2:hover {
+        background-color: rgb(255, 201, 42) !important;
+        color: white !important;
+    }
+
+    .probt3 {
+        width: 136px;
+        height: 50px;
+        float: left !important;
+        margin: -17px 19px !important;
+        background-color: white !important;
+        border: 2px solid rgb(255, 201, 42) !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+    }
+
+    .probt3:hover {
+        background-color: rgb(255, 201, 42) !important;
+        color: white !important;
+    }
+
+    .blog {
+        float: left;
+        height: auto;
+        min-height: 500px;
+        background: url("../img/baground.jpg") center center / 30000px no-repeat;
+        margin-left: 0px !important;
+    }
+
+    .blot {
+        margin-left: 56px;
+        float: left;
+        /* margin: 1px 16px; */
+        width: 88% !important;
+        height: 316px;
+    }
+
+    .bloghe h4 {
+        font-family: Poppins, serif;
+        color: rgb(255, 201, 42);
+        text-align: center;
+        margin-top: 27px;
+        font-size: 26px;
+    }
+
+    .bloghe h3 {
+        font-family: Poppins, serif;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        margin-top: 1px;
+        font-weight: bold;
+        font-size: 1.1rem;
+    }
+
+    .blo {
+        font-family: Poppins, serif;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        margin-top: 1px;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .blop {
+        text-align: left;
+        font-size: 9px;
+        padding: 0px;
+        font-family: Poppins, serif;
+    }
+
+    .blobt {
+        width: 86%;
+        height: 28px;
+        float: left !important;
+        margin: 0px 18px !important;
+        font-size: 11px !important;
+        background-color: rgb(255, 201, 42) !important;
+        border: none !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+    }
+
+    .blobt:hover {
+        background-color: rgb(255, 156, 42) !important;
+        color: white !important;
+    }
+
+    .footer {
+        height: auto;
+        min-height: 310px;
+        float: left;
+        background-color: rgb(255, 201, 42);
+    }
+
+    .footbox {
+        height: 300px;
+        float: left;
+    }
+
+    .footbox h6 {
+        text-align: left;
+        font-size: 25px;
+        font-family: Poppins, serif;
+        font-weight: bold;
+        margin: 16px 2px;
+    }
+
+    .footbox h4 {
+        font-size: 18px;
+        text-align: left;
+        font-family: Poppins, serif;
+        font-weight: lighter;
+        margin: 16px 0px;
+    }
+
+    .footbox p {
+        font-weight: bold;
+        font-family: Poppins, serif;
+        padding: 0px;
+        font-size: 12px;
+        margin: 23px 0px;
+    }
+
+    .doc {
+        font-weight: lighter;
+        font-family: Poppins, serif;
+    }
+
+    .fname {
+        text-decoration: none;
+        background-color: rgb(255, 201, 42);
+        border: none;
+        font-family: Poppins, serif;
+        width: 300px;
+        text-align: left;
+    }
+
+    .bord {
+        width: 300px;
+        float: left;
+        border-bottom: 1px solid black;
+        margin: 2px 29px;
+    }
+
+    textarea {
+        width: 600px;
+        height: 211px;
+        background-color: rgb(249, 234, 190);
+        padding: 5px 8px;
+        text-decoration: none;
+        border: none;
+        margin: 15px 27px !important;
+        font-family: Poppins, serif !important;
+    }
+
+    .bn {
+        margin-left: 22px;
+        margin-bottom: -20px;
+        text-decoration: none;
+        border: none;
+        background: transparent;
+        font-size: 18px !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+        margin-top: -40px !important;
+    }
+
+    .bn i {
+        font-size: 14px;
+        margin: 0px 8px;
+    }
+
+    .portbg {
+        float: left;
+        height: auto;
+        min-height: 350px;
+        background: url("../img/baground.jpg") center center / 2000px no-repeat;
+    }
+
+    .port h6 {
+        font-family: Poppins, serif;
+        color: rgb(255, 201, 42);
+        text-align: center;
+        margin-top: 18px;
+        font-size: 18px;
+    }
+
+    .port h2 {
+        text-align: center;
+        font-size: 19px;
+        padding: 5px;
+        font-family: Poppins, serif;
+    }
+
+    .port p {
+        text-align: center;
+        font-size: 9px;
+        padding: 2px;
+        font-family: Poppins, serif;
+    }
+
+    .potbox {
+        height: 200px;
+        width: 93% !important;
+        float: left;
+        /* margin: auto; */
+        margin-left: 33px;
+    }
+
+    .image {
+        width: 350px;
+        /* position: relative; */
+        margin-left: 10px;
+    }
+
+    img {
+        width: 100%;
+        display: block;
+        margin: auto;
+    }
+
+    .content {
+        width: 100%;
+        height: 100%;
+        /* position: absolute; */
+        /* top: 0px; */
+        /* left: 0px; */
+        background: rgba(255, 196, 0, 0.58);
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        opacity: 0;
+        /* transition: all 0.6s ease 0s; */
+    }
+
+    .content:hover {
+        opacity: 1;
+    }
+
+    .content h1 {
+        font-size: 35px;
+        color: rgb(255, 255, 255);
+        margin-top: 64px;
+        text-align: center;
+        font-family: Poppins, serif;
+    }
+
+    .content > * {
+        transform: translateY(23px);
+        transition: transform 0.6s ease 0s;
+    }
+
+    .content:hover > * {
+        transform: translateY(0px);
+    }
+
+    .footer {
+        height: auto;
+        min-height: 310px;
+        float: left;
+        background-color: rgb(255, 201, 42);
+    }
+
+    .footbox {
+        height: 300px;
+        width: 40% !important;
+        float: left;
+    }
+
+    .footbox h6 {
+        text-align: left;
+        font-size: 25px;
+        font-family: Poppins, serif;
+        font-weight: bold;
+        margin: 16px 2px;
+    }
+
+    .footbox h4 {
+        font-size: 18px;
+        text-align: left;
+        font-family: Poppins, serif;
+        font-weight: lighter;
+        margin: 16px 0px;
+    }
+
+    .footbox p {
+        font-weight: bold;
+        font-family: Poppins, serif;
+        padding: 0px;
+        font-size: 12px;
+        margin: 23px 0px;
+    }
+
+    .doc {
+        font-weight: lighter;
+        font-family: Poppins, serif;
+    }
+
+    .fname {
+        text-decoration: none;
+        background-color: rgb(255, 201, 42);
+        border: none;
+        font-family: Poppins, serif;
+        width: 101%;
+        text-align: left;
+    }
+
+    .bord {
+        width: 90%;
+        float: left;
+        border-bottom: 2px solid white;
+        margin-top: 12px;
+        margin-left: 38px;
+    }
+
+    textarea {
+        width: 147%;
+        height: 110px;
+        background-color: rgb(249, 234, 190);
+        padding: 5px 8px;
+        text-decoration: none;
+        border: none;
+        margin: 15px 27px !important;
+        font-family: Poppins, serif !important;
+    }
+
+    .bn {
+        margin-left: 24px;
+        margin-bottom: -22px;
+        text-decoration: none;
+        border: none;
+        background: transparent;
+        font-size: 18px !important;
+        font-family: Poppins, serif !important;
+        font-weight: bold !important;
+        margin-top: -35px !important;
+    }
+
+    .bn i {
+        font-size: 14px;
+        margin: 0px 8px;
+    }
+
+
+    .cde {
+        /* width: 100% !important; */
+        /* height: 309px !important; */
+        /* margin: 12px 10px; */
+    }
+}
+
+
+/* portfolio page media query */
+
+@media (max-width: 768px) {
+    body{
+      min-height: 100%;
+      width: 100%;
+      overflow-x: hidden;
+    }
+    
+    
+    
+    
+      .header {
+          min-height: 25%;
+          height: 36%;
+          float: left;
+          background: url("../img/baground.jpg") center center / 50000px no-repeat !important;
+          width: 100% !important;
+      }
+  
+      .navy {
+          float: right;
+          font-family: Poppins, serif;
+          font-weight: bold;
+          text-align: center;
+          margin-left: 0px;
+          font-size: 15px;
+          align-items: center;
+      }
+  
+      .mybtn {
+          width: 151px;
+          border-radius: 23px !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+      }
+  
+      .box1 {
+          height: 20%;
+          margin-left: 0px;
+          float: left;
+          width: 106% !important;
+      }
+  
+      .box2 {
+          height: 30%;
+          float: right;
+      }
+  
+      .box2 img {
+          width: 221%;
+          height: 34%;
+          float: right;
+          margin: auto;
+      }
+  
+      .box1 h2 {
+          font-family: Poppins, serif;
+          font-size: 19px;
+          margin: 0px;
+          text-align: left;
+      }
+  
+      .box1 h3 {
+          font-family: Poppins, serif;
+          color: rgb(255, 193, 7);
+          font-size: 29px;
+          margin: 0px;
+          text-align: left;
+      }
+  
+      .box1 h5 {
+          font-family: Poppins, serif;
+          color: rgb(0, 0, 0);
+          font-size: 47px;
+          text-align: left;
+      }
+  
+      .box1 span {
+          color: rgb(255, 193, 7);
+      }
+  
+      .box1 p {
+          float: left;
+          font-size: 13px;
+          margin: 2px 0px;
+          font-family: Poppins, serif;
+          color: black;
+          text-align: left;
+      }
+  
+      .ab {
+          margin: 0px;
+          width: 18%;
+          border-radius: 36px !important;
+          font-family: Poppins, serif !important;
+          color: white !important;
+          font-weight: bold !important;
+          font-size: 9px !important;
+      }
+  
+      .box1 i {
+          padding: 0px;
+          margin: 5px 6px;
+          font-size: 22px;
+          color: rgb(0, 0, 0);
+      }
+  
+      .Abot {
+          float: left;
+          height: 574px;
+          background: black;
+      }
+  
+      .abbox1 {
+          float: left;
+          height: 35%;
+          width: 90% !important;
+      }
+  
+      .abbox2 {
+          float: left;
+          height: 623px;
+          width: 94% !important;
+      }
+  
+      .brbox {
+          width: 52%;
+          height: 9%;
+          float: left;
+          border: 4px solid rgb(255, 193, 8);
+          padding: 10px 11px;
+          margin-left: 90px;
+          margin-top: 20px;
+      }
+  
+      .brbox img {
+          width: 106%;
+          height: 25%;
+          margin-left: 14px;
+          margin-top: -31px;
+          float: left;
+      }
+  
+      .abbox2 h3 {
+          font-family: Poppins, serif;
+          font-size: 31px;
+          margin: 14px 0px;
+          color: white;
+          text-align: center;
+      }
+  
+      .bord {
+          border-bottom: 9px solid rgb(255, 201, 42);
+          width: 248px;
+          margin-top: -10px;
+      }
+  
+      .abbox2 p {
+          font-family: Poppins, serif;
+          font-size: 10px;
+          margin: -1px 0px;
+          padding: 9px 0px;
+          color: white;
+          float: left;
+          text-align: center;
+      }
+  
+      .abbtn {
+          padding: 3px;
+          margin-left: 127px;
+          width: 38%;
+          border-radius: 12px !important;
+          font-size: 12px !important;
+          color: white !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+      }
+  
+      .srvicbox {
+          float: left;
+          /* width: 100% !important; */
+          height: auto;
+          min-height: 550px;
+          background: url("../img/baground.jpg") center center / 2452px no-repeat;
+      }
+  
+      .srvc h4 {
+          font-family: Poppins, serif;
+          color: rgb(255, 201, 42);
+          text-align: center;
+          margin-top: 27px;
+          font-size: 22px;
+      }
+  
+      .srvc p {
+          font-family: Poppins, serif;
+          color: rgb(0, 0, 0);
+          text-align: center;
+          margin-top: 1px;
+          font-weight: bold;
+          font-size: 25px;
+      }
+  
+      .svcbox {
+          height: 364px;
+          float: left;
+          background-color: rgb(255, 255, 255);
+          border-radius: 20px;
+          margin: 6px 18px;
+          box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+          border-right: 1px solid gray;
+          width: 41% !important;
+      }
+  
+      .svcbox:hover {
+          background-color: rgb(255, 239, 193);
+      }
+  
+      .svcbox img {
+          width: 100px;
+          height: 100px;
+          float: left;
+          margin: 17px 42px;
+      }
+  
+      .svcbox h5 {
+          text-align: center;
+          font-family: Poppins, serif;
+          font-size: 23px;
+          margin: 10px 2px;
+      }
+  
+      .svcbox p {
+          text-align: center;
+          font-size: 10px;
+          padding: 5px;
+          font-family: Poppins, serif;
+      }
+  
+      .svcbt {
+          width: 136px;
+          height: 50px;
+          float: left !important;
+          margin: 12px 22px !important;
+          background-color: white !important;
+          border: 2px solid rgb(255, 201, 42) !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+      }
+  
+      .svcbt:hover {
+          background-color: rgb(255, 201, 42) !important;
+          color: white !important;
+      }
+  
+      .svcbox1 {
+          height: 364px;
+          float: left;
+          background-color: rgb(255, 255, 255);
+          border-radius: 20px;
+          margin: 6px 21px;
+          box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+          border-right: 1px solid gray;
+          width: 41% !important;
+      }
+  
+      .svcbox1:hover {
+          background-color: rgb(255, 239, 193);
+      }
+  
+      .svcbox1 img {
+          width: 100px;
+          height: 100px;
+          float: left;
+          margin: 17px 42px;
+      }
+  
+      .svcbox1 h5 {
+          text-align: center;
+          font-family: Poppins, serif;
+          font-size: 23px;
+          margin: 37px 2px;
+      }
+  
+      .svcbox1 p {
+          text-align: center;
+          font-size: 10px;
+          padding: 5px;
+          font-family: Poppins, serif;
+      }
+  
+      .svcbt1 {
+          width: 136px;
+          height: 50px;
+          float: left !important;
+          margin: 12px 22px !important;
+          background-color: white !important;
+          border: 2px solid rgb(255, 201, 42) !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+      }
+  
+      .svcbt1:hover {
+          background-color: rgb(255, 201, 42) !important;
+          color: white !important;
+      }
+  
+      .skil {
+          float: left;
+          height: 92%;
+          /* min-height: 260px; */
+          background: url("../img/baground.jpg") center center / 50000px no-repeat;
+      }
+  
+      .skilbox {
+          float: left;
+          height: 200px;
+          border: 2px solid red;
+          margin: 0px 10px;
+      }
+  
+      .skl h2 {
+          font-family: Poppins, serif;
+          color: rgb(255, 201, 42);
+          text-align: center;
+          margin-top: 27px;
+          font-size: 29px;
+      }
+  
+      .circular-progress {
+          position: relative;
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+          background: conic-gradient(rgb(255, 201, 42) 3.6deg, rgb(237, 237, 237) 0deg);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      }
+  
+      .circular-progress::before {
+          content: "";
+          position: absolute;
+          height: 90px;
+          width: 90px;
+          border-radius: 50%;
+          background-color: rgb(241, 237, 237);
+      }
+  
+      .progress-value {
+          position: absolute;
+          font-size: 20px;
+          font-weight: bold;
+          color: rgb(255, 201, 42);
+      }
+  
+      .text {
+          font-size: 18px;
+          font-weight: bold;
+          font-family: Poppins, serif;
+          color: rgb(255, 156, 42);
+      }
+  
+      .skl h2 {
+          font-family: Poppins, serif;
+          color: rgb(255, 201, 42);
+          text-align: center;
+          margin-top: 13px;
+          font-size: 29px;
+      }
+  
+      .sklbox {
+          height: 100px;
+          float: left;
+          width: 92% !important;
+          margin-left: 25px;
+      }
+  
+      .sklbox h3 {
+          text-align: center;
+          font-family: Poppins, serif;
+          font-size: 17px;
+          margin: 0px;
+          color: rgb(0, 0, 0);
+      }
+  
+      .sklbox p {
+          text-align: center;
+          font-family: Poppins, serif;
+          font-size: 17px;
+          margin: 0px;
+      }
+  
+      .br {
+          width: 98% !important;
+      }
+  
+      .portbg {
+          float: left;
+          height: auto;
+          min-height: 350px;
+          background: url("../img/baground.jpg") center center / 2000px no-repeat;
+      }
+  
+      .port h6 {
+          font-family: Poppins, serif;
+          color: rgb(255, 201, 42);
+          text-align: center;
+          margin-top: 27px;
+          font-size: 22px;
+      }
+  
+      .port h2 {
+          text-align: center;
+          font-size: 30px;
+          padding: 5px;
+          font-family: Poppins, serif;
+      }
+  
+      .port p {
+          text-align: center;
+          font-size: 15px;
+          padding: 5px;
+          font-family: Poppins, serif;
+      }
+  
+      .potbox {
+          height: 200px;
+          float: left;
+      }
+  
+      .image {
+          width: 350px;
+          position: relative;
+          margin-left: 10px;
+      }
+  
+      img {
+          width: 100%;
+          display: block;
+          margin: auto;
+      }
+  
+      .content {
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          top: 0px;
+          left: 0px;
+          background: rgba(255, 196, 0, 0.58);
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          opacity: 0;
+          transition: all 0.6s ease 0s;
+      }
+  
+      .content:hover {
+          opacity: 1;
+      }
+  
+      .content h1 {
+          font-size: 35px;
+          color: rgb(255, 255, 255);
+          margin-top: 64px;
+          text-align: center;
+          font-family: Poppins, serif;
+      }
+  
+      .content > * {
+          transform: translateY(23px);
+          transition: transform 0.6s ease 0s;
+      }
+  
+      .content:hover > * {
+          transform: translateY(0px);
+      }
+  
+      .des {
+          float: left;
+          height: auto;
+          min-height: 500px;
+          background: url("../img/baground.jpg") center center / 3000px no-repeat;
+      }
+  
+      .pro h6 {
+          font-family: Poppins, serif;
+          color: rgb(255, 201, 42);
+          text-align: center;
+          margin-top: 27px;
+          font-size: 21px;
+      }
+  
+      .pro h1 {
+          font-family: Poppins, serif;
+          color: rgb(0, 0, 0);
+          text-align: center;
+          margin-top: 1px;
+          font-weight: bold;
+          font-size: 1.1rem;
+      }
+  
+      .probox {
+          height: 370px;
+          width: 45% !important;
+          float: left;
+          background-color: rgb(255, 255, 255);
+          border-radius: 20px;
+          margin: 6px 8px;
+          box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+          border-right: 1px solid gray;
+      }
+  
+      .probox img {
+          width: 96px;
+          height: 84px;
+          float: left;
+          margin: 26px 35px;
+      }
+  
+      .probox h3 {
+          text-align: center;
+          font-family: Poppins, serif;
+          font-size: 23px;
+          margin: 10px 2px;
+      }
+  
+      .probox p {
+          text-align: center;
+          font-size: 13px;
+          padding: 5px;
+          font-family: Poppins, serif;
+      }
+  
+      .probt {
+          width: 136px;
+          height: 50px;
+          float: left !important;
+          margin: 2px 22px !important;
+          background-color: white !important;
+          border: 2px solid rgb(255, 201, 42) !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+      }
+  
+      .probt:hover {
+          background-color: rgb(255, 201, 42) !important;
+          color: white !important;
+      }
+  
+      .probox2 {
+          height: 369px;
+          float: left;
+          width: 46% !important;
+          background-color: rgb(255, 255, 255);
+          border-radius: 20px;
+          margin: 11px 9px;
+          box-shadow: rgb(255, 201, 42) -13px 3px 0px -3px;
+          border-right: 1px solid gray;
+      }
+  
+      .probox2 img {
+          width: 96px;
+          height: 84px;
+          float: left;
+          margin: 26px 35px;
+      }
+  
+      .probox2 h3 {
+          text-align: center;
+          font-family: Poppins, serif;
+          font-size: 23px;
+          margin: 10px 2px;
+      }
+  
+      .probox2 p {
+          text-align: center;
+          font-size: 13px;
+          padding: 5px;
+          font-family: Poppins, serif;
+      }
+  
+      .probt2 {
+          width: 136px;
+          height: 50px;
+          float: left !important;
+          margin: 0px 19px !important;
+          background-color: white !important;
+          border: 2px solid rgb(255, 201, 42) !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+      }
+  
+      .probt2:hover {
+          background-color: rgb(255, 201, 42) !important;
+          color: white !important;
+      }
+  
+      .probt3 {
+          width: 136px;
+          height: 50px;
+          float: left !important;
+          margin: -17px 19px !important;
+          background-color: white !important;
+          border: 2px solid rgb(255, 201, 42) !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+      }
+  
+      .probt3:hover {
+          background-color: rgb(255, 201, 42) !important;
+          color: white !important;
+      }
+  
+      .blog {
+          float: left;
+          height: auto;
+          min-height: 500px;
+          background: url("../img/baground.jpg") center center / 30000px no-repeat;
+          margin-left: 0px !important;
+      }
+  
+      .blot {
+          margin-left: 56px;
+          float: left;
+          /* margin: 1px 16px; */
+          width: 88% !important;
+          height: 316px;
+      }
+  
+      .bloghe h4 {
+          font-family: Poppins, serif;
+          color: rgb(255, 201, 42);
+          text-align: center;
+          margin-top: 27px;
+          font-size: 26px;
+      }
+  
+      .bloghe h3 {
+          font-family: Poppins, serif;
+          color: rgb(0, 0, 0);
+          text-align: center;
+          margin-top: 1px;
+          font-weight: bold;
+          font-size: 1.1rem;
+      }
+  
+      .blo {
+          font-family: Poppins, serif;
+          color: rgb(0, 0, 0);
+          text-align: center;
+          margin-top: 1px;
+          font-weight: bold;
+          font-size: 15px;
+      }
+  
+      .blop {
+          text-align: left;
+          font-size: 9px;
+          padding: 0px;
+          font-family: Poppins, serif;
+      }
+  
+      .blobt {
+          width: 86%;
+          height: 28px;
+          float: left !important;
+          margin: 0px 18px !important;
+          font-size: 11px !important;
+          background-color: rgb(255, 201, 42) !important;
+          border: none !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+      }
+  
+      .blobt:hover {
+          background-color: rgb(255, 156, 42) !important;
+          color: white !important;
+      }
+  
+      .footer {
+          height: auto;
+          min-height: 310px;
+          float: left;
+          background-color: rgb(255, 201, 42);
+      }
+  
+      .footbox {
+          height: 300px;
+          float: left;
+      }
+  
+      .footbox h6 {
+          text-align: left;
+          font-size: 25px;
+          font-family: Poppins, serif;
+          font-weight: bold;
+          margin: 16px 2px;
+      }
+  
+      .footbox h4 {
+          font-size: 18px;
+          text-align: left;
+          font-family: Poppins, serif;
+          font-weight: lighter;
+          margin: 16px 0px;
+      }
+  
+      .footbox p {
+          font-weight: bold;
+          font-family: Poppins, serif;
+          padding: 0px;
+          font-size: 12px;
+          margin: 23px 0px;
+      }
+  
+      .doc {
+          font-weight: lighter;
+          font-family: Poppins, serif;
+      }
+  
+      .fname {
+          text-decoration: none;
+          background-color: rgb(255, 201, 42);
+          border: none;
+          font-family: Poppins, serif;
+          width: 300px;
+          text-align: left;
+      }
+  
+      .bord {
+          width: 300px;
+          float: left;
+          border-bottom: 1px solid black;
+          margin: 2px 29px;
+      }
+  
+      textarea {
+          width: 600px;
+          height: 211px;
+          background-color: rgb(249, 234, 190);
+          padding: 5px 8px;
+          text-decoration: none;
+          border: none;
+          margin: 15px 27px !important;
+          font-family: Poppins, serif !important;
+      }
+  
+      .bn {
+          margin-left: 22px;
+          margin-bottom: -20px;
+          text-decoration: none;
+          border: none;
+          background: transparent;
+          font-size: 18px !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+          margin-top: -40px !important;
+      }
+  
+      .bn i {
+          font-size: 14px;
+          margin: 0px 8px;
+      }
+  
+      .portbg {
+          float: left;
+          height: auto;
+          min-height: 350px;
+          background: url("../img/baground.jpg") center center / 4000px no-repeat;
+      }
+  
+      .port h6 {
+          font-family: Poppins, serif;
+          color: rgb(255, 201, 42);
+          text-align: center;
+          margin-top: 18px;
+          font-size: 18px;
+      }
+  
+      .port h2 {
+          text-align: center;
+          font-size: 19px;
+          padding: 5px;
+          font-family: Poppins, serif;
+      }
+  
+      .port p {
+          text-align: center;
+          font-size: 9px;
+          padding: 2px;
+          font-family: Poppins, serif;
+      }
+  
+      .potbox {
+          height: 200px;
+          width: 93% !important;
+          float: left;
+          /* margin: auto; */
+          margin-left: 33px;
+      }
+  
+      .image {
+          width: 350px;
+          /* position: relative; */
+          margin-left: 10px;
+      }
+  
+      img {
+          width: 100%;
+          display: block;
+          margin: auto;
+      }
+  
+      .content {
+          width: 100%;
+          height: 100%;
+          /* position: absolute; */
+          /* top: 0px; */
+          /* left: 0px; */
+          background: rgba(255, 196, 0, 0.58);
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          opacity: 0;
+          /* transition: all 0.6s ease 0s; */
+      }
+  
+      .content:hover {
+          opacity: 1;
+      }
+  
+      .content h1 {
+          font-size: 35px;
+          color: rgb(255, 255, 255);
+          margin-top: 64px;
+          text-align: center;
+          font-family: Poppins, serif;
+      }
+  
+      .content > * {
+          transform: translateY(23px);
+          transition: transform 0.6s ease 0s;
+      }
+  
+      .content:hover > * {
+          transform: translateY(0px);
+      }
+  
+      .footer {
+          height: auto;
+          min-height: 310px;
+          float: left;
+          background-color: rgb(255, 201, 42);
+      }
+  
+      .footbox {
+          height: 300px;
+          width: 40% !important;
+          float: left;
+      }
+  
+      .footbox h6 {
+          text-align: left;
+          font-size: 25px;
+          font-family: Poppins, serif;
+          font-weight: bold;
+          margin: 16px 2px;
+      }
+  
+      .footbox h4 {
+          font-size: 18px;
+          text-align: left;
+          font-family: Poppins, serif;
+          font-weight: lighter;
+          margin: 16px 0px;
+      }
+  
+      .footbox p {
+          font-weight: bold;
+          font-family: Poppins, serif;
+          padding: 0px;
+          font-size: 12px;
+          margin: 23px 0px;
+      }
+  
+      .doc {
+          font-weight: lighter;
+          font-family: Poppins, serif;
+      }
+  
+      .fname {
+          text-decoration: none;
+          background-color: rgb(255, 201, 42);
+          border: none;
+          font-family: Poppins, serif;
+          width: 101%;
+          text-align: left;
+      }
+  
+      .bord {
+          width: 90%;
+          float: left;
+          border-bottom: 2px solid white;
+          margin-top: 12px;
+          margin-left: 38px;
+      }
+  
+      textarea {
+          width: 147%;
+          height: 110px;
+          background-color: rgb(249, 234, 190);
+          padding: 5px 8px;
+          text-decoration: none;
+          border: none;
+          margin: 15px 27px !important;
+          font-family: Poppins, serif !important;
+      }
+  
+      .bn {
+          margin-left: 24px;
+          margin-bottom: -22px;
+          text-decoration: none;
+          border: none;
+          background: transparent;
+          font-size: 18px !important;
+          font-family: Poppins, serif !important;
+          font-weight: bold !important;
+          margin-top: -35px !important;
+      }
+  
+      .bn i {
+          font-size: 14px;
+          margin: 0px 8px;
+      }
+  
+  
+      .cde {
+          /* width: 100% !important; */
+          /* height: 309px !important; */
+          /* margin: 12px 10px; */
+      }
+  }
+
+/* portfolio page close media query*/
